@@ -1,16 +1,18 @@
-### Hi there 👋
+## Douglas Tesch
+
+[![Linkedin Badge](https://img.shields.io/badge/-DouglasTesch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-tesch-00b7a518b/)](https://www.linkedin.com/in/douglas-tesch-00b7a518b/) 
+[![Gmail Badge](https://img.shields.io/badge/-douglas.tesch9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglas.tesch9@gmail.com)](mailto:douglas.tesch9@gmail.com)
+
+**Hello everybody** 👋
+
+I'm a TypeScript full stack developer
+
+:rocket: My journey begun when I discovered rocketseat. I first started on LaunchBase 01 and have never stopped learn ever since.
+
+:computer: Typescript | ReactJS | Node | React Native
+
+:pushpin: Would you like to talk about tech or have a partner on a cool project? I'm onboard.
 
 <!--
 **Dtesch9/Dtesch9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
