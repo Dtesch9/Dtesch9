@@ -7,9 +7,9 @@
 
 I'm a TypeScript full stack developer
 
-:rocket: My journey begun when I discovered rocketseat. I first started on LaunchBase 01 and have never stopped learn ever since.
+:rocket: Passionate about transforming UI prototypes into functional, user-centric code! I thrive on bringing designs to life through seamless development. 
 
-:computer: Typescript | ReactJS | Node | React Native
+:computer: Typescript | React.js | Node.js | Next.js | React Native
 
 :pushpin: Would you like to talk about tech or have a partner on a cool project? I'm onboard.
 
