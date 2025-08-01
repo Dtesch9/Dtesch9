@@ -9,7 +9,7 @@ I'm a TypeScript full stack developer
 
 :rocket: Passionate about transforming UI prototypes into functional, user-centric code! I thrive on bringing designs to life through seamless development. 
 
-:computer: Typescript | React.js | Node.js | Next.js | Remix.js | React Native | Express.js | Playwright | Cypress.js | AWS
+:computer: React.js | Typescript | Node.js | AWS | SST | Serverless | Playwright | Back-end | Full-stack | Front-end | Test automation | Neovim
 
 :pushpin: Would you like to talk about tech or have a partner on a cool project? I'm onboard.
 
