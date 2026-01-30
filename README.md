@@ -5,13 +5,13 @@
 
 **Hello everybody** 👋
 
-I'm a TypeScript full stack developer
+I'm a software engineer
 
-:rocket: Passionate about transforming UI prototypes into functional, user-centric code! I thrive on bringing designs to life through seamless development. 
+:rocket: Passionate about bringing ideas to life through. 
 
 :computer: React.js | Typescript | Node.js | AWS | SST | Serverless | Playwright | Back-end | Full-stack | Front-end | Test automation | Neovim
 
-:pushpin: Would you like to talk about tech or have a partner on a cool project? I'm onboard.
+:pushpin: I use Neovim BTW
 
 <!--
 **Dtesch9/Dtesch9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
