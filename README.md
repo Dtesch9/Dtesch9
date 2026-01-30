@@ -7,7 +7,7 @@
 
 I'm a software engineer
 
-:rocket: Passionate about bringing ideas to life through. 
+:rocket: Passionate about bringing ideas to life. 
 
 :computer: React.js | Typescript | Node.js | AWS | SST | Serverless | Playwright | Back-end | Full-stack | Front-end | Test automation | Neovim
 
